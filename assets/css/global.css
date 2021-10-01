@@ -26,6 +26,14 @@ h2 {
     font-size: 1.1rem;
 }
 
+blockquote, blockquote p {
+    line-height: 1.6;
+    color: #6f6f6f;
+    margin: 0 0 1.25rem;
+    padding: 0.5625rem 1.25rem 0 1.1875rem;
+    border-left: 1px solid #ddd;
+}
+
 #cabecalho {
     margin: 50px 0;
     display: flex;

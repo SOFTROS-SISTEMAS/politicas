@@ -13,9 +13,9 @@ Você é livre para recusar a nossa solicitação de informações pessoais, ent
 
 O uso continuado de nosso site e aplicativo será considerado como aceitação de nossas práticas em torno de privacidade e informações pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais, entre em contato conosco.
 
-> Email: [maciel@softros.com.br](mailto:maciel@softros.com.br)  
-> Telefone: (44) 3199-9000  
-> Celular: (44) 99976-0287  
+> Email: [maciel@softros.com.br](mailto:maciel@softros.com.br)<br>
+> Telefone: (44) 3199-9000<br>
+> Celular: (44) 99976-0287<br>
  
 # 2. Política de Cookies
 ## O que são cookies?
