@@ -88,3 +88,25 @@ blockquote {
     width: 98px;
     margin-right: 15px;
 }
+
+@media (max-width: 540px) {
+    #cabecalho {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    #cabecalho img {
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-width: 400px) {
+    #rodape {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    #rodape img {
+        margin-bottom: 15px;
+    }
+}

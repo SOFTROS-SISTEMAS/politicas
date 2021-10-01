@@ -40,7 +40,7 @@ class Politicas {
         const tipo = window.location.search.replace("?", "")
 
         switch (tipo) {
-            case "termos":
+            case "termo":
                 return this.termos()
 
             case "privacidade": 

@@ -1,4 +1,4 @@
-# 1. Termos de uso
+# 1. Termo de uso
 Ao usar o aplicativo e acessar o site Agulhão, concorda em cumprir estes termos de serviço, todas as leis e regulamentos aplicáveis e concorda que é responsável pelo cumprimento de todas as leis locais aplicáveis. Se você não concordar com algum desses termos, está proibido de usar ou acessar este site. Os materiais contidos neste site são protegidos pelas leis de direitos autorais e marcas comerciais aplicáveis.
 
 # 2. Uso de Licença
