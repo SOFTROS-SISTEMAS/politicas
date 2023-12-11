@@ -2,8 +2,9 @@ class Politicas {
     constructor() {
         this.markdown = new showdown.Converter()
         this.urls = {
-            privacidade: "https://raw.githubusercontent.com/SOFTROS-SISTEMAS/politicas/master/privacidade.md",
-            termos: "https://raw.githubusercontent.com/SOFTROS-SISTEMAS/politicas/master/termos.md"
+            privacidade: "/privacidade.md",
+            termos: "/termos.md",
+            exclusao: "/exclusao.md"
         }
     }
 
@@ -36,6 +37,10 @@ class Politicas {
         this.requisicao(this.urls.privacidade)
     }
 
+    exclusao() {
+        this.requisicao(this.urls.exclusao)
+    }
+
     url() {
         const tipo = window.location.search.replace("?", "")
 
@@ -45,6 +50,9 @@ class Politicas {
 
             case "privacidade": 
                 return this.privacidade()
+
+            case "exclusao":
+                return this.exclusao()
         }
     }
 }

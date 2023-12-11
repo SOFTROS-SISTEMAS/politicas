@@ -1,1 +1,1 @@
-Este documento está sendo atualizado e em breve será atualizado!
+Este documento está sendo atualizado e em breve será disponibilizado!
